@@ -1,1 +1,1 @@
-# Community-CMS
+# CMS
